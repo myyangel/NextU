@@ -1,0 +1,11 @@
+EDUCACIÓN
+odifica una Tabla de 4 columnas (Año, Institución, Lugar, ¿Culminó?) por 3 filas (o más si deseas) para indicar los datos sobre tus certificados, cursos, título, entre otros.
+Dibuja un Formulario titulado "Agregar Estudios" con los siguientes elementos:
+Una lista desplegable para el Año.
+Una caja de entrada de texto para Institución, agrega la validación de campo requerido.
+Una caja de entrada de texto largo para Lugar.
+Un botón "Enviar".
+
+EXPERIENCIA
+Video graba un video de máximo 45 segundos sobres tus habilidades e intereses profesionales y agrega en esta sección con sus respectivos controles y título.
+Audio graba un audio de máximo 60 segundos sobre tus Hobbies y actividades recreacionales que realizas en tu tiempo libre, agrégalo a tu página con sus respectivos controles y título.
